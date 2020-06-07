@@ -1,0 +1,17 @@
+.content{
+  padding: 10px;
+  border: 1px solid green;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  color: #4db1e8;
+  textAlign: center;
+  fontFamily: sans-serif;
+}
+ .tech {
+  background: #4db1e8;
+  color: #fff;
+  padding: 5px;
+  margin-right: 5px;
+}
